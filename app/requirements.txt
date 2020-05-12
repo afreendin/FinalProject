@@ -1,0 +1,6 @@
+mysql
+Flask
+mysql-connector
+simplejson
+Flask-MySQL
+dnspython==1.15.0

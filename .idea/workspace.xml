@@ -1,4 +1,237 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="93bba9e7-1939-4db1-8c40-8dae03e4d32a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/app/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/app.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/templates/edit.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/templates/layout.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/templates/new.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/templates/view.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/db/init.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshot/after_delete_beijing_between_cairo&amp;manila.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshot/after_edit_singapore.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshot/before_delete_beijing.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshot/before_edit_singapore.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshot/edit_form.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshot/index_list.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshot/new_record_added.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshot/new_record_form.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshot/view_records.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DockerFlaskPythonMySQLPycharm/.idea/DockerFlaskPythonMySQLPycharm.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../DockerFlaskPythonMySQLPycharm/.idea/DockerFlaskPythonMySQLPycharm.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DockerFlaskPythonMySQLPycharm/app/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../DockerFlaskPythonMySQLPycharm/app/templates/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/FinalProjectPart1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/FinalProjectPart1.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="citiesData@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="citiesData@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="citiesData@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="citiesdata: schema" type="76f4a085:MysqlImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="citiesData@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="citiesdata: schema" type="76f4a085:MysqlImplModel$Schema" />
+        <item name="tblcitiesimport: table" type="285a2a93:MysqlImplModel$Table" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1bb7zNvTXJlovGjaRpGH20bfC4f" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/app/app.py" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PythonContentEntriesConfigurable" />
+  </component>
+  <component name="RunManager" selected="Docker.FinalProjectPart1">
+    <configuration name="FlaskPart1" type="Python.FlaskServer">
+      <option name="additionalOptions" value="--host 0.0.0.0 --port 5070" />
+      <option name="flaskDebug" value="true" />
+      <module name="FinalProjectPart1" />
+      <option name="target" value="C:\Users\Admin\PycharmProjects\FinalProjectPart1\app\app.py" />
+      <option name="targetType" value="PATH" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="C:\Users\Admin\PycharmProjects\DockerFlaskPythonMySQLPycharm\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="Python.FlaskServer">
+      <option name="additionalOptions" value="--host 0.0.0.0 --port 5070" />
+      <option name="flaskDebug" value="true" />
+      <module name="FinalProjectPart1" />
+      <option name="target" value="C:\Users\Admin\PycharmProjects\FinalProjectPart1\app\app.py" />
+      <option name="targetType" value="PATH" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="C:\Users\Admin\PycharmProjects\DockerFlaskPythonMySQLPycharm\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration name="FinalProjectPart1" type="docker-deploy" factoryName="docker-compose.yml" server-name="Docker">
+      <deployment type="docker-compose.yml">
+        <settings>
+          <option name="removeVolumesOnComposeDown" value="true" />
+          <option name="commandLineOptions" value="--build" />
+          <option name="sourceFilePath" value="docker-compose.yml" />
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Docker.FinalProjectPart1" />
+      <item itemvalue="Flask server.FlaskPart1" />
+    </list>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Docker" type="9fbbdea:ServiceModel$ServiceNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="93bba9e7-1939-4db1-8c40-8dae03e4d32a" name="Default Changelist" comment="" />
+      <created>1589058088949</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589058088949</updated>
+      <workItem from="1589058101870" duration="16713000" />
+      <workItem from="1589089170101" duration="30067000" />
+      <workItem from="1589226866758" duration="15868000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="275" y="25" key="#Inspections" timestamp="1589064790560">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="25" key="#Inspections/0.0.1366.728@0.0.1366.728" timestamp="1589064790560" />
+    <state x="275" y="25" key="#SQL_Dialects" timestamp="1589064857411">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="25" key="#SQL_Dialects/0.0.1366.728@0.0.1366.728" timestamp="1589064857411" />
+    <state x="117" y="16" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1589060854919">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="117" y="16" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1589060854919" />
+    <state x="500" y="276" key="DockerComposeFileDialog" timestamp="1589059526621">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="500" y="276" key="DockerComposeFileDialog/0.0.1366.728@0.0.1366.728" timestamp="1589059526621" />
+    <state x="519" y="180" key="FileChooserDialogImpl" timestamp="1589064836378">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="519" y="180" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1589064836378" />
+    <state width="905" height="179" key="GridCell.Tab.0.bottom" timestamp="1589096098049">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="905" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1589096098049" />
+    <state width="905" height="179" key="GridCell.Tab.0.center" timestamp="1589096098049">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="905" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1589096098049" />
+    <state width="905" height="179" key="GridCell.Tab.0.left" timestamp="1589096098049">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="905" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1589096098049" />
+    <state width="905" height="179" key="GridCell.Tab.0.right" timestamp="1589096098049">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="905" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1589096098049" />
+    <state x="186" y="9" key="SettingsEditor" timestamp="1589096359501">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="186" y="9" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1589096359501" />
+    <state x="391" y="191" key="com.intellij.ide.util.TipDialog" timestamp="1589226876041">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="391" y="191" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1589226876041" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/FinalProjectPart1$FlaskPart1.coverage" NAME="FlaskPart1 Coverage Results" MODIFIED="1589061413845" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+  </component>
 </project>

@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../DockerFlaskPythonMySQLPycharm/.idea/DockerFlaskPythonMySQLPycharm.iml" filepath="$PROJECT_DIR$/../DockerFlaskPythonMySQLPycharm/.idea/DockerFlaskPythonMySQLPycharm.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/FinalProjectPart1.iml" filepath="$PROJECT_DIR$/.idea/FinalProjectPart1.iml" />
     </modules>
   </component>
