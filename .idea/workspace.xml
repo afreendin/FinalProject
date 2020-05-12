@@ -2,28 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="93bba9e7-1939-4db1-8c40-8dae03e4d32a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/app/Dockerfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/app.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/requirements.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/templates/edit.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/templates/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/templates/layout.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/templates/new.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/templates/view.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/db/init.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshot/after_delete_beijing_between_cairo&amp;manila.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshot/after_edit_singapore.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshot/before_delete_beijing.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshot/before_edit_singapore.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshot/edit_form.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshot/index_list.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshot/new_record_added.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshot/new_record_form.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshot/view_records.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../DockerFlaskPythonMySQLPycharm/.idea/DockerFlaskPythonMySQLPycharm.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../DockerFlaskPythonMySQLPycharm/.idea/DockerFlaskPythonMySQLPycharm.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../DockerFlaskPythonMySQLPycharm/app/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../DockerFlaskPythonMySQLPycharm/app/templates/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/FinalProjectPart1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/FinalProjectPart1.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
@@ -175,8 +155,16 @@
       <updated>1589058088949</updated>
       <workItem from="1589058101870" duration="16713000" />
       <workItem from="1589089170101" duration="30067000" />
-      <workItem from="1589226866758" duration="15868000" />
+      <workItem from="1589226866758" duration="17138000" />
     </task>
+    <task id="LOCAL-00001" summary="Created all templates and app.py file">
+      <created>1589262647660</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1589262647661</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -184,6 +172,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Created all templates and app.py file" />
+    <option name="LAST_COMMIT_MESSAGE" value="Created all templates and app.py file" />
   </component>
   <component name="WindowStateProjectService">
     <state x="275" y="25" key="#Inspections" timestamp="1589064790560">
@@ -198,6 +188,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="117" y="16" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1589060854919" />
+    <state x="415" y="0" key="CommitChangelistDialog2" timestamp="1589262636823">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="415" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1589262636823" />
     <state x="500" y="276" key="DockerComposeFileDialog" timestamp="1589059526621">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -226,6 +220,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="186" y="9" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1589096359501" />
+    <state x="275" y="100" key="Vcs.Push.Dialog.v2" timestamp="1589262660578">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="100" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1589262660578" />
     <state x="391" y="191" key="com.intellij.ide.util.TipDialog" timestamp="1589226876041">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
