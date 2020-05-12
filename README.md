@@ -34,4 +34,4 @@
 
 ### After delete Beijing between Cairo & Manila
 
-![after delete](/screenshots/after_delete_beijing_between_cairo&manila.PNG)
+![after delete](/screenshot/after_delete_beijing_between_cairo&manila.PNG)

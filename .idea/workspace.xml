@@ -155,7 +155,7 @@
       <updated>1589058088949</updated>
       <workItem from="1589058101870" duration="16713000" />
       <workItem from="1589089170101" duration="30067000" />
-      <workItem from="1589226866758" duration="17138000" />
+      <workItem from="1589226866758" duration="17485000" />
     </task>
     <task id="LOCAL-00001" summary="Created all templates and app.py file">
       <created>1589262647660</created>
@@ -164,7 +164,14 @@
       <option name="project" value="LOCAL" />
       <updated>1589262647661</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Added all the outputs in README file">
+      <created>1589264129083</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1589264129083</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -173,7 +180,8 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Created all templates and app.py file" />
-    <option name="LAST_COMMIT_MESSAGE" value="Created all templates and app.py file" />
+    <MESSAGE value="Added all the outputs in README file" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added all the outputs in README file" />
   </component>
   <component name="WindowStateProjectService">
     <state x="275" y="25" key="#Inspections" timestamp="1589064790560">
@@ -188,10 +196,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="117" y="16" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1589060854919" />
-    <state x="415" y="0" key="CommitChangelistDialog2" timestamp="1589262636823">
+    <state x="415" y="0" key="CommitChangelistDialog2" timestamp="1589264124494">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="415" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1589262636823" />
+    <state x="415" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1589264124494" />
     <state x="500" y="276" key="DockerComposeFileDialog" timestamp="1589059526621">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -220,10 +228,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="186" y="9" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1589096359501" />
-    <state x="275" y="100" key="Vcs.Push.Dialog.v2" timestamp="1589262660578">
+    <state x="275" y="100" key="Vcs.Push.Dialog.v2" timestamp="1589264149908">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="100" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1589262660578" />
+    <state x="275" y="100" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1589264149908" />
     <state x="391" y="191" key="com.intellij.ide.util.TipDialog" timestamp="1589226876041">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
