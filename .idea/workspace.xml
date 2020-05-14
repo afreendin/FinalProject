@@ -4,8 +4,12 @@
     <list default="true" id="93bba9e7-1939-4db1-8c40-8dae03e4d32a" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/../DockerFlaskPythonMySQLPycharm/.idea/DockerFlaskPythonMySQLPycharm.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../DockerFlaskPythonMySQLPycharm/.idea/DockerFlaskPythonMySQLPycharm.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../DockerFlaskPythonMySQLPycharm/app/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../DockerFlaskPythonMySQLPycharm/app/templates/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/FinalProjectPart1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/FinalProjectPart1.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/app.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FinalProjectPart2/app/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/../FinalProjectPart2/app/app.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,8 +77,8 @@
     <property name="DatabaseDriversLRU" value="mysql" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/app/app.py" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PythonContentEntriesConfigurable" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../FinalProjectPart2/docker-compose.yml" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunManager" selected="Docker.FinalProjectPart1">
     <configuration name="FlaskPart1" type="Python.FlaskServer">
@@ -121,7 +125,18 @@
       </deployment>
       <method v="2" />
     </configuration>
+    <configuration name="FinalProjectPart2" type="docker-deploy" factoryName="docker-compose.yml" server-name="Docker">
+      <deployment type="docker-compose.yml">
+        <settings>
+          <option name="removeVolumesOnComposeDown" value="true" />
+          <option name="commandLineOptions" value="--build" />
+          <option name="sourceFilePath" value="../FinalProjectPart2/docker-compose.yml" />
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
     <list>
+      <item itemvalue="Docker.FinalProjectPart2" />
       <item itemvalue="Docker.FinalProjectPart1" />
       <item itemvalue="Flask server.FlaskPart1" />
     </list>
@@ -131,12 +146,7 @@
       <list>
         <serviceView>
           <treeState>
-            <expand>
-              <path>
-                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
-                <item name="Docker" type="9fbbdea:ServiceModel$ServiceNode" />
-              </path>
-            </expand>
+            <expand />
             <select />
           </treeState>
         </serviceView>
@@ -155,7 +165,11 @@
       <updated>1589058088949</updated>
       <workItem from="1589058101870" duration="16713000" />
       <workItem from="1589089170101" duration="30067000" />
-      <workItem from="1589226866758" duration="17485000" />
+      <workItem from="1589226866758" duration="18618000" />
+      <workItem from="1589269580307" duration="12937000" />
+      <workItem from="1589401004499" duration="4739000" />
+      <workItem from="1589471093900" duration="9236000" />
+      <workItem from="1589493892156" duration="361000" />
     </task>
     <task id="LOCAL-00001" summary="Created all templates and app.py file">
       <created>1589262647660</created>
@@ -171,7 +185,21 @@
       <option name="project" value="LOCAL" />
       <updated>1589264129083</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Corrected  README file">
+      <created>1589264313111</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1589264313111</updated>
+    </task>
+    <task id="LOCAL-00004" summary="All files are added with outputs in screenshot and README file">
+      <created>1589405837007</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1589405837007</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -181,7 +209,9 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Created all templates and app.py file" />
     <MESSAGE value="Added all the outputs in README file" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added all the outputs in README file" />
+    <MESSAGE value="Corrected  README file" />
+    <MESSAGE value="All files are added with outputs in screenshot and README file" />
+    <option name="LAST_COMMIT_MESSAGE" value="All files are added with outputs in screenshot and README file" />
   </component>
   <component name="WindowStateProjectService">
     <state x="275" y="25" key="#Inspections" timestamp="1589064790560">
@@ -192,50 +222,54 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="275" y="25" key="#SQL_Dialects/0.0.1366.728@0.0.1366.728" timestamp="1589064857411" />
-    <state x="117" y="16" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1589060854919">
+    <state x="251" y="43" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1589315060165">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="117" y="16" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1589060854919" />
-    <state x="415" y="0" key="CommitChangelistDialog2" timestamp="1589264124494">
+    <state x="251" y="43" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1589315060165" />
+    <state x="352" y="0" key="CommitChangelistDialog2" timestamp="1589405830267">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="415" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1589264124494" />
-    <state x="500" y="276" key="DockerComposeFileDialog" timestamp="1589059526621">
+    <state x="352" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1589405830267" />
+    <state x="500" y="276" key="DockerComposeFileDialog" timestamp="1589311864779">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="500" y="276" key="DockerComposeFileDialog/0.0.1366.728@0.0.1366.728" timestamp="1589059526621" />
-    <state x="519" y="180" key="FileChooserDialogImpl" timestamp="1589064836378">
+    <state x="500" y="276" key="DockerComposeFileDialog/0.0.1366.728@0.0.1366.728" timestamp="1589311864779" />
+    <state x="519" y="180" key="FileChooserDialogImpl" timestamp="1589311862439">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="519" y="180" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1589064836378" />
-    <state width="905" height="179" key="GridCell.Tab.0.bottom" timestamp="1589096098049">
+    <state x="519" y="180" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1589311862439" />
+    <state width="905" height="179" key="GridCell.Tab.0.bottom" timestamp="1589316170664">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="905" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1589096098049" />
-    <state width="905" height="179" key="GridCell.Tab.0.center" timestamp="1589096098049">
+    <state width="905" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1589316170664" />
+    <state width="905" height="179" key="GridCell.Tab.0.center" timestamp="1589316170664">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="905" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1589096098049" />
-    <state width="905" height="179" key="GridCell.Tab.0.left" timestamp="1589096098049">
+    <state width="905" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1589316170664" />
+    <state width="905" height="179" key="GridCell.Tab.0.left" timestamp="1589316170663">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="905" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1589096098049" />
-    <state width="905" height="179" key="GridCell.Tab.0.right" timestamp="1589096098049">
+    <state width="905" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1589316170663" />
+    <state width="905" height="179" key="GridCell.Tab.0.right" timestamp="1589316170664">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="905" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1589096098049" />
-    <state x="186" y="9" key="SettingsEditor" timestamp="1589096359501">
+    <state width="905" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1589316170664" />
+    <state x="158" y="6" key="SettingsEditor" timestamp="1589265942876">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="186" y="9" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1589096359501" />
-    <state x="275" y="100" key="Vcs.Push.Dialog.v2" timestamp="1589264149908">
+    <state x="158" y="6" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1589265942876" />
+    <state x="275" y="100" key="Vcs.Push.Dialog.v2" timestamp="1589405860074">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="100" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1589264149908" />
-    <state x="391" y="191" key="com.intellij.ide.util.TipDialog" timestamp="1589226876041">
+    <state x="275" y="100" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1589405860074" />
+    <state x="399" y="14" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog" timestamp="1589314970660">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="391" y="191" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1589226876041" />
+    <state x="399" y="14" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog/0.0.1366.728@0.0.1366.728" timestamp="1589314970660" />
+    <state x="391" y="191" key="com.intellij.ide.util.TipDialog" timestamp="1589497511528">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="391" y="191" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1589497511528" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/FinalProjectPart1$FlaskPart1.coverage" NAME="FlaskPart1 Coverage Results" MODIFIED="1589061413845" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
